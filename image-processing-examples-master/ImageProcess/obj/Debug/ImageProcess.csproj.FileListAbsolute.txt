@@ -1,0 +1,42 @@
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.exe.config
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.exe
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.pdb
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.FrmMain.resources
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.exe
+C:\Users\Gabriel\Google Drive\Uenp\4ºANO\Computação Grafica\C#\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.pdb
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.exe.config
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.exe
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.pdb
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.exe
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.pdb
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.FrmMain.resources
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.dll
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.dll
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Math.dll
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.xml
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.xml
+C:\Users\Fernando\Desktop\Faculdade\4 ano\Computação gráfica\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Math.xml
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.exe.config
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.exe
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.pdb
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.exe
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\ImageProcess.pdb
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\AForge.dll
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Math.dll
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.xml
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\AForge.xml
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\bin\Debug\AForge.Math.xml
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.FrmMain.resources
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\Users\a120011\Desktop\image-processing-examples-master\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
